@@ -1,3 +1,5 @@
+![BlueShift logo](/assets/BLUE_BLUESHIFT.png)
+
 # WPILib Vendor Template
 
 This is the base WPILib vendor template for 2025.
